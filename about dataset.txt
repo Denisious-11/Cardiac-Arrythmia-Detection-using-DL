@@ -1,0 +1,34 @@
+Number of Instances: 452
+Number of Attributes: 279
+
+
+Class Distribution:
+
+   Database:  Arrhythmia
+
+   Class code :   Class   :                       		Number of instances:
+  -> 01             Normal                          		245
+  -> 02             Ischemic changes (Coronary Artery Disease)   	44
+  -> 03             Old Anterior Myocardial Infarction           	15
+  -> 04             Old Inferior Myocardial Infarction           	15
+  -> 05             Sinus tachycardy                       	13
+  -> 06             Sinus bradycardy                       	25
+  -> 07             Ventricular Premature Contraction (PVC)       3
+  -> 08             Supraventricular Premature Contraction        2
+  -> 09             Left bundle branch block                     	9   
+  -> 10             Right bundle branch block                   	50
+   11             1. degree AtrioVentricular block              0   
+   12             2. degree AV block                    	0
+   13             3. degree AV block                    	0
+  -> 14             Left ventricule hypertrophy                 	4
+  -> 15             Atrial Fibrillation or Flutter                5
+  16             Others                           		22
+
+#################################################
+FINALIZED:
+
+0 - Normal
+1 - Ischemic changes (Coronary Artery Disease)
+2 - Sinus bradycardy
+3 - Right bundle branch block
+#################################################
